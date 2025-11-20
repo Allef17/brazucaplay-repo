@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+
+    <addon id="plugin.video.BrazucaPlay" version="1.0.0" name="Brazuca Play" provider-name="BrazucaPlay">
+        <extension point="xbmc.python.pluginsource" library="default.py" />
+        <extension point="xbmc.addon.metadata">
+            <summary lang="pt_BR">Brazuca Play</summary>
+            <description lang="pt_BR">Addon do Brazuca Play.</description>
+            <platform>all</platform>
+        </extension>
+    </addon>
+
+</addons>
